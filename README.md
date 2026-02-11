@@ -17,4 +17,4 @@ This is a Power BI dashboard analyzing sales and profit performance.
 
 ## Dashboard Preview
 
-![Dashboard](2026.png)
+![Dashboard](Screenshot 2026-02-11 154535.png)
